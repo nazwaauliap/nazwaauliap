@@ -1,6 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FFA500&height=200&section=header&text=Hi,%20I'm%20Nanaz!%20🍍&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FFA500,FFD700&height=200&section=header&text=Hi,%20I'm%20Nanaz!%20🍍&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://media4.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="280"/>
 </div>
 
 <!-- Typing animation -->
@@ -37,9 +38,9 @@ const nanaz = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF6B00?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF8C00?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF8C00?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -50,13 +51,13 @@ const nanaz = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazwaauliap&show_icons=true&theme=transparent&title_color=FF6B00&icon_color=FF8C00&text_color=FF6B00&border_color=FF6B00" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaauliap&layout=compact&theme=transparent&title_color=FF6B00&text_color=FF8C00&border_color=FF6B00" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nazwaauliap&show_icons=true&theme=transparent&title_color=FF6B00&icon_color=FFD700&text_color=FF8C00&border_color=FFA500" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaauliap&layout=compact&theme=transparent&title_color=FF6B00&text_color=FF8C00&border_color=FFA500" height="165"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazwaauliap&theme=transparent&ring=FF6B00&fire=FFA500&currStreakLabel=FF6B00&sideLabels=FF8C00&border=FF6B00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazwaauliap&theme=transparent&ring=FF6B00&fire=FFD700&currStreakLabel=FF6B00&sideLabels=FF8C00&border=FFA500" />
 </div>
 
 <br/>
@@ -73,5 +74,5 @@ const nanaz = {
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FFA500&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FFA500,FF8C00,FF6B00&height=120&section=footer" />
 </div>
