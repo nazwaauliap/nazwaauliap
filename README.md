@@ -72,5 +72,4 @@ const nazwa = {
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FFA500,FF8C00,FF6B00&height=120&section=footer" />
 </div>
