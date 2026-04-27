@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FFA500&height=200&section=header&text=Hi,%20I'm%20Nanaz!%20🍊&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FFA500&height=200&section=header&text=Hi,%20I'm%20Nanaz!%20🍍&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <!-- Typing animation -->
@@ -13,7 +13,7 @@
 <!-- About Me -->
 <div align="center">
 
-## 🍊 About Me
+## 🍍 About Me
 
 </div>
 
