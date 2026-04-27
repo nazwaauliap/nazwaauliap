@@ -1,12 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FFA500,FFD700&height=200&section=header&text=Hi,%20I'm%20Nanaz!%20🍍&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-  <img src="https://media4.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="280"/>
+  <img src="https://media4.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nanaz!+🍍;Backend+Developer+in+Progress+🚀;Cybersecurity+Enthusiast+🔐;Always+Learning+New+Things+🌱" alt="Typing SVG" />
 </div>
 
 <br/>
