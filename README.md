@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="100%"/>
+  <img src="https://media4.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="500"/>
 </div>
 
 <!-- Typing animation -->
