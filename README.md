@@ -1,18 +1,18 @@
 <!-- Header -->
 <div align="center">
   <img src="https://media4.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="500"/>
-</div>
+</div
 
 <!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nazwa!+😃;Backend+Developer+in+Progress+🚀;Cybersecurity+Enthusiast+🔐;Always+Learning+New+Things+🌱" alt="Typing SVG" />
 </div>
+
 <br/>
+
 <!-- About Me -->
 <div align="center">
-  
-## 🍍 About Me
-
+  <h2>🍍 About Me</h2>
 </div>
 
 ```javascript
@@ -29,8 +29,7 @@ const nazwa = {
 
 <!-- Skills -->
 <div align="center">
-
-## 🛠️ Tech Stack
+  <h2>🛠️ Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white)
@@ -45,24 +44,20 @@ const nazwa = {
 
 <!-- GitHub Stats -->
 <div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazwaauliap&show_icons=true&theme=transparent&title_color=FF6B00&icon_color=FFD700&text_color=FF8C00&border_color=FFA500" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaauliap&layout=compact&theme=transparent&title_color=FF6B00&text_color=FF8C00&border_color=FFA500" height="165"/>
-
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=nazwaauliap&show_icons=true&theme=transparent&title_color=FF6B00&icon_color=FFD700&text_color=FF8C00&border_color=FFA500" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaauliap&layout=compact&theme=transparent&title_color=FF6B00&text_color=FF8C00&border_color=FFA500" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazwaauliap&theme=transparent&ring=FF6B00&fire=FFD700&currStreakLabel=FF6B00&sideLabels=FF8C00&border=FFA500" />
+  <img src="https://streak-stats.demolab.com?user=nazwaauliap&theme=transparent&ring=FF6B00&fire=FFD700&currStreakLabel=FF6B00&sideLabels=FF8C00&border=FFA500" />
 </div>
 
 <br/>
 
 <!-- Connect -->
 <div align="center">
-
-## 🔗 Let's Connect!
+  <h2>🔗 Let's Connect!</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazwa-aulia-putri-ab256a3ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nxzwl._)
@@ -72,4 +67,5 @@ const nazwa = {
 
 <!-- Footer -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer" width="100%"/>
 </div>
