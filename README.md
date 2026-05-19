@@ -45,15 +45,11 @@ const nazwa = {
 <!-- GitHub Stats -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=nazwaauliap&show_icons=true&theme=transparent&title_color=FF6B00&icon_color=FFD700&text_color=FF8C00&border_color=FFA500" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaauliap&layout=compact&theme=transparent&title_color=FF6B00&text_color=FF8C00&border_color=FFA500" height="165"/>
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=nazwaauliap&theme=transparent&ring=FF6B00&fire=FFD700&currStreakLabel=FF6B00&sideLabels=FF8C00&border=FFA500" />
-</div>
-
-<br/>
+</p>
 
 <!-- Connect -->
 <div align="center">
