@@ -31,12 +31,16 @@ const nazwa = {
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF8C00?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FF8C42?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF6B35?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-FF9F1C?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-FFA94D?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF7F11?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-FFB347?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6F3C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF8E53?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF9E57?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF5E3A?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
